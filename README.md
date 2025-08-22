@@ -162,10 +162,6 @@ This repository is strictly for **defensive security education**. Running real r
 
 ---
 
-## 📜 License
-
-MIT License — see `LICENSE` (or treat this as MIT if not provided).
-
 ---
 
 ## 🙌 Credits
